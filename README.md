@@ -5,7 +5,7 @@
 
 ### Deployed Smart Contract
 0x9096843c7e8a636065063233c6dCf7D23518f81B
-**[🔗Link](https://testnet.opbnbscan.com/address/0x9096843c7e8a636065063233c6dCf7D23518f81B)**
+- **[🔗Link🔗](https://testnet.opbnbscan.com/address/0x9096843c7e8a636065063233c6dCf7D23518f81B)**
 
 Mappasaurus is an AI-powered operating system with a bold vision. We leverage the power of artificial intelligence to process image data from various sources, including dashcams, smartphones, and potentially more in the future. We're starting our journey by revolutionizing map creation with the power of AI, decentralized storage, distributed computing, and blockchain/NFTs.
 
