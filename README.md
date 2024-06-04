@@ -1,8 +1,11 @@
 # 🦖 Crackasaurus: Map the World through the Eyes of Mappasaurus 🗺️
 
-[![Crackasaurus Demo](https://img.youtube.com/vi/C0dosyhYx_A/sddefault.jpg)](https://youtu.be/C0dosyhYx_A?feature=shared)
+### Crackasaurus Demo
+(https://youtu.be/C0dosyhYx_A?feature=shared)
 
-**[🦖 Deployed Smart Contract](https://testnet.opbnbscan.com/address/0x9096843c7e8a636065063233c6dCf7D23518f81B)**
+### Deployed Smart Contract
+0x9096843c7e8a636065063233c6dCf7D23518f81B
+**[🔗Link](https://testnet.opbnbscan.com/address/0x9096843c7e8a636065063233c6dCf7D23518f81B)**
 
 Mappasaurus is an AI-powered operating system with a bold vision. We leverage the power of artificial intelligence to process image data from various sources, including dashcams, smartphones, and potentially more in the future. We're starting our journey by revolutionizing map creation with the power of AI, decentralized storage, distributed computing, and blockchain/NFTs.
 
@@ -64,7 +67,7 @@ npm run eject
 
 **Note: This is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project, giving you full control over the build process, making you the alpha dino. 🦖
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project, giving you full control over the build process, making you the alpha dino. 
 
 ## 🦖 Contributing to the MappaVerse
 
