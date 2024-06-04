@@ -1,10 +1,12 @@
-import { GREEN_CHAIN_ID, GRPC_URL } from '../config/env';
-import { Client } from '@bnb-chain/greenfield-js-sdk';
-export const client = Client.create(GRPC_URL, String(GREEN_CHAIN_ID));
+import { Client } from "@bnb-chain/greenfield-js-sdk";
+export const client = Client.create(
+  import.meta.env.VITE_GRPC_URL,
+  String(import.meta.env.VITE_GREEN_CHAIN_ID)
+);
 
 export const getSps = async () => {
   const sps = await client.sp.getStorageProviders();
-  const finalSps = (sps ?? []).filter((v: any) => v.endpoint.includes('nodereal'));
+  const finalSps = (sps ?? []).filter((v) => v.endpoint.includes("nodereal"));
 
   return finalSps;
 };
