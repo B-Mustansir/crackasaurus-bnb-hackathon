@@ -2,7 +2,7 @@
 
 ### Crackasaurus Demo
 https://github.com/B-Mustansir/crackasaurus-bnb-hackathon/assets/108982582/50554398-0a20-4067-9b29-e53a099331a9
-(https://youtu.be/C0dosyhYx_A?feature=shared)
+
 
 ### Deployed Smart Contract
 0x9096843c7e8a636065063233c6dCf7D23518f81B
